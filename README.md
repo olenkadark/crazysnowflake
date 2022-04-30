@@ -9,5 +9,5 @@ _Marissa Mayer_
 ### Professional Skills And Tools ###
 PHP, JavaScript, MySQL, Yii2, Laravel, Vue.js, Git, HTML, CSS, REST API, MongoDB, Redis, Composer, NPM, Bootstrap, Wordpress, Woocommerce, Photoshop, Figma, Agile, Scrum, OOP, MVC, SOLID, JIRA, Postman, PhpStorm, MySQL Workbench, Composer
 
-[LinkedIn] https://www.linkedin.com/in/elenka/
-[Instagram] https://www.instagram.com/elenka_dark/
++ [LinkedIn](https://www.linkedin.com/in/elenka/)
++ [Instagram](https://www.instagram.com/elenka_dark/)
