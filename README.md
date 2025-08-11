@@ -1,13 +1,8 @@
-Hi, I am Olena Zhyvohliad. I have around 7+ years of extensive experience as a PHP developer.
-My focus area for the past few years has been back-end development with Yii and Laravel, but I'm also skilled in front-end development with Vue.js.
+Hi, I’m Olena Zhyvohliad, a senior web developer with over 10 years of experience in building custom applications using technologies like Vue.js, React, Firebase, MongoDB, and PHP. I specialize in creating scalable, efficient, and user-friendly apps for businesses looking to improve their digital presence or launch new services.
+Whether you need a single-page application or a complex SaaS platform, I bring technical expertise combined with a deep understanding of what makes a great user experience. I’ve led teams to build impactful projects, such as developing an e-commerce platform that increased online sales by 50%.
+In addition to client work, I’m actively involved in open-source projects and passionate about creating valuable content for the development community, sharing insights, tutorials, and technical solutions.
 
-### My Life Philosophy ###
- ```Always do something you are a little not ready to do. I think that's how you grow. When there's that moment of 'Wow, I'm not really sure I can do this,' and you push through those moments, that's when you have a breakthrough.```
+I’m passionate about partnering with businesses to bring their vision to life through modern, scalable web solutions. Let’s discuss how I can help your business succeed. Feel free to reach out for a consultation or to review your project needs.
 
-_Marissa Mayer_
 
-### Professional Skills And Tools ###
-PHP, JavaScript, MySQL, Yii2, Laravel, Vue.js, Git, HTML, CSS, REST API, MongoDB, Redis, Composer, NPM, Bootstrap, Wordpress, Woocommerce, Photoshop, Figma, Agile, Scrum, OOP, MVC, SOLID, JIRA, Postman, PhpStorm, MySQL Workbench, Composer
-
-+ [LinkedIn](https://www.linkedin.com/in/elenka/)
-+ [Instagram](https://www.instagram.com/elenka_dark/)
++ [LinkedIn](https://www.linkedin.com/in/olenkadark/)
